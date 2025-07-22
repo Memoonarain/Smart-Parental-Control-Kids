@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#446FFC</color>
+    <color name="colorPrimaryLight">#5578F8</color>
+    <color name="colorPrimaryUltraLight">#EDF0FF</color>
+
+    <color name="transparentColor">#00000000</color>
+    <!-- Green (Success / Active) -->
+    <color name="colorGreen">#43C762</color>
+    <color name="colorGreenLight">#E5F7E9</color>
+
+    <!-- Orange (Warning / Alert) -->
+    <color name="colorOrange">#FF9F1C</color>
+    <color name="colorOrangeLight">#ECBC47</color> <!-- Same as ultra light -->
+
+    <!-- Yellow / Highlight -->
+    <color name="colorYellow">#CFB994</color>
+
+    <!-- Background -->
+    <color name="colorBackground">#F5F5F5</color>
+
+    <!-- Text Colors -->
+    <color name="colorTextBlue">#3DC2E9</color> <!-- Optional secondary blue -->
+    <color name="colorTextGreen">#43C762</color> <!-- Same as green -->
+    <color name="colorTextPrimary">#000000</color>
+    <color name="colorTextSecondary">#8B909E</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

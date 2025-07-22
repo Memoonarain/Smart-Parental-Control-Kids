@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "615424797998",
+    "project_id": "smart-parental-control-5e717",
+    "storage_bucket": "smart-parental-control-5e717.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615424797998:android:a9768025a7cff6cb681ebf",
+        "android_client_info": {
+          "package_name": "com.example.smartparentalcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615424797998-hr5mjae88qo01ochc2f0c53tr4sdmuqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartparentalcontrol",
+            "certificate_hash": "915cba20efc1260b5b7001f286059111db4b9370"
+          }
+        },
+        {
+          "client_id": "615424797998-kbl3hvjs2fap77pcjn1v6clvctt5nm4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartparentalcontrol",
+            "certificate_hash": "2803d7dd8fbc211ed50201a1d1407ccb1cf44b8a"
+          }
+        },
+        {
+          "client_id": "615424797998-97pi37nosr7nvgqhq49ebt82updl3gmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOc9mSR7iUJnbA1CjxiT9wu0okXbjYV0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615424797998-97pi37nosr7nvgqhq49ebt82updl3gmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615424797998:android:3207d1da6806b955681ebf",
+        "android_client_info": {
+          "package_name": "com.example.smartparentalcontrolkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615424797998-97pi37nosr7nvgqhq49ebt82updl3gmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOc9mSR7iUJnbA1CjxiT9wu0okXbjYV0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615424797998-97pi37nosr7nvgqhq49ebt82updl3gmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
